@@ -1,0 +1,10 @@
+{
+  "obsidian-git:open-git-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
+}

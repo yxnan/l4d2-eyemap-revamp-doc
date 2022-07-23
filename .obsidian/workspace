@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "82d35a1510fdbe0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4bfce158f8fe83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Brief.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033a1aa1109166de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21a919cf5a9dbac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be499d16ccb28cb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56b63e7ec4bb32e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52a5b5738298da40",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b794b8289c4aa4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586cb351c94838dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Brief.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ab1ff88db2f710b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4f4bfce158f8fe83",
+  "lastOpenFiles": [
+    "000 Brief.md"
+  ]
+}
