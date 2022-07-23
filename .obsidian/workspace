@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4bfce158f8fe83",
+        "id": "64e48abc3602e534",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4f4bfce158f8fe83",
+  "active": "64e48abc3602e534",
   "lastOpenFiles": [
     "000 Brief.md"
   ]
